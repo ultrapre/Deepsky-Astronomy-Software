@@ -7,7 +7,7 @@ a lite tool similar to *Deepsky Astronomy Software*, opensource and free.
 
 Sample:
 
-![image-20201008210507757](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201008210507757.png)
+![image-20201008210507757](note/image-20201008210507757.png)
 
 
 
