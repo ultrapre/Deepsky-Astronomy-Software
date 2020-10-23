@@ -1,5 +1,5 @@
 # Deepsky-Astronomy-Software
-Deepsky Astronomy Software for Python
+Deepsky Astronomy Software for Python/Qt_cpp
 
 a lite tool similar to *Deepsky Astronomy Software*, opensource and free.
 
@@ -11,7 +11,9 @@ Sample:
 
 
 
-## 1.User Guide
+![image-20201023114011005](G:\git\Astro\Deepsky-Astronomy-Software\note\image-20201023114011005.png)
+
+## 1.User Guide (Python)
 
 First, download the project
 
